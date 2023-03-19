@@ -31,7 +31,7 @@ arrTwo.push(7);
 arrTwo.push(8);
 arrTwo.push(9);
 // #9
-for (let i = 0; i < arr2.length; i++) {
+for (let i = 0; i < arrTwo.length; i++) {
     console.log(arr2[i]);
 }
 
